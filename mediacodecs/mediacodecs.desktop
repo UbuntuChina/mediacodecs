@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=mediacodecs
+Exec=mediacodecs
+Icon=mediacodecs/mediacodecs.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

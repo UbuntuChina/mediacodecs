@@ -1,0 +1,15 @@
+{
+    "name": "mediacodecs.xiaoguo",
+    "description": "description of mediacodecs",
+    "architecture": "@CLICK_ARCH@",
+    "title": "mediacodecs",
+    "hooks": {
+        "mediacodecs": {
+            "apparmor": "mediacodecs/mediacodecs.apparmor",
+            "desktop": "mediacodecs/mediacodecs.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}
